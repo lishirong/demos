@@ -9,7 +9,7 @@
     <artifactId>demo_shiro</artifactId>
     <packaging>war</packaging>
     <name>demo_shiro Maven Webapp</name>
-    <url>http://maven.apache.org</url>
+    <url>http://www.mayizhixiao.com</url>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
