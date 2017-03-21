@@ -16,7 +16,7 @@ public class Test {
     @RequestMapping(value = "/test")
     @ResponseBody
     public String test(){
-        return  "tt";
+        return  "test";
     }
 
 }
